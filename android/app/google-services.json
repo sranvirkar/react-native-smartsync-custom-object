@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "642349192768",
+    "firebase_url": "https://mc-push-notification.firebaseio.com",
+    "project_id": "mc-push-notification",
+    "storage_bucket": "mc-push-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642349192768:android:d64a0fe2fd56c19ac7b1a5",
+        "android_client_info": {
+          "package_name": "com.react.smartsync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642349192768-bne5v5hf89j4rjb55pl8775imnrk7civ.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMU5yJIhUAwY8s0WgrLyyeqPECxOE25ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642349192768-bne5v5hf89j4rjb55pl8775imnrk7civ.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
